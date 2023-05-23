@@ -16,10 +16,11 @@ export const Avatar = styled.img`
     border-radius: 100%;
     position: absolute;
     top: -25%;
+    border: 5px solid #E07C24;
 `;
 
 export const UserName = styled.h2`
-    margin: 45px 0 0 0;
+    margin: 50px 0 0 0;
     color: #fff;
 `;
 
