@@ -11,16 +11,18 @@ To run the project locally, follow these steps:
    git clone <repository-url>
 
 2. Install the dependencies:
+    ```bash
     cd user-list-app
     yarn install
 
 3. Start the development server:
+    ```bash
     yarn start
 
 The application will be running at http://localhost:3000 in your browser.
 
-
 4. Testing
 
 Unit tests are implemented using Jest and React Testing Library. To run the tests, use the following command:
+    ```bash
     yarn test
